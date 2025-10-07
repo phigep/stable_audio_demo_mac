@@ -116,7 +116,7 @@ hop_size = 1024
 # ────────────────────────────────────────────────────────
 with st.expander("API Settings (click to expand)", expanded=False):
     hf_token_input = st.text_input(
-        "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", 
+        "YOUR TOKEN HERE", 
         type="password", 
         help="Enter your Hugging Face API token to authenticate.",
     )
